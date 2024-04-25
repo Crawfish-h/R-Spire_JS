@@ -1,0 +1,5 @@
+R[...]: RObject is the root parent class of all classes that can exist without being attached to another object.
+G[...]: Variables will have this prefix when extended from RGame_Object.
+T[...]: Simple classes/types that do not extend from RGame_Object or RObject. These usually have few functions and contain mostly variables.
+F[...]: Complex classes/types that do not extend from RGame_Object or RObject. These must have many functions.
+M[...]: miscellaneous files.
